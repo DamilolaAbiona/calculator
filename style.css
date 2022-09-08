@@ -81,7 +81,8 @@ section {
     transition: all .8s ease;
 }
 .button:hover{
-    background-color: rgb(30, 43, 46);
+    /* background-color: rgb(30, 43, 46); */
+    background-image: linear-gradient(to right top, #ef5a82, #f45e83, #f6718f, #f96181, #fb5072);
     color: #ffff;
 }
 
